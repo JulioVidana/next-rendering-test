@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "created_at": "2020-05-01T00:00:00.000Z",
+    "title": "CSR",
+    "description": " This year, our new summer collection will shelter you from the harsh elements of a world that doesnt care if you live or die.",
+    "images": [
+      {
+        "id": "1",
+        "src": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-01.jpg"
+      },
+      {
+        "id": "2",
+        "src": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-02.jpg"
+      },
+      {
+        "id": "3",
+        "src": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-03.jpg"
+      },
+      {
+        "id": "4",
+        "src": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-04.jpg"
+      },
+      {
+        "id": "5",
+        "src": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-05.jpg"
+      },
+      {
+        "id": "6",
+        "src": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-06.jpg"
+      },
+      {
+        "id": "7",
+        "src": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-07.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "created_at": "2020-05-01T00:00:00.000Z",
+    "title": "SSG",
+    "description": " This year, our new summer collection will shelter you from the harsh elements of a world that doesnt care if you live or die.",
+    "images": [
+      {
+        "id": "1",
+        "src": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-03.jpg"
+      },
+      {
+        "id": "2",
+        "src": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-02.jpg"
+      },
+      {
+        "id": "3",
+        "src": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-04.jpg"
+      },
+      {
+        "id": "4",
+        "src": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-01.jpg"
+      },
+      {
+        "id": "5",
+        "src": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-05.jpg"
+      },
+      {
+        "id": "6",
+        "src": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-06.jpg"
+      },
+      {
+        "id": "7",
+        "src": "https://tailwindui.com/img/ecommerce-images/home-page-03-hero-image-tile-07.jpg"
+      }
+    ]
+  }
+]

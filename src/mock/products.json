@@ -1,0 +1,50 @@
+[
+  {
+    "createdAt": "2023-04-18T20:48:57.274Z",
+    "name": "Gorgeous Concrete Bacon",
+    "price": "899.00",
+    "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg",
+    "imageAlt": "Refined Fresh Sausages",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "highlights": "Bronze",
+    "details": "Generic",
+    "colors": [],
+    "id": "1"
+  },
+  {
+    "createdAt": "2023-04-19T06:00:48.600Z",
+    "name": "Ergonomic Cotton Towels",
+    "price": "99.00",
+    "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg",
+    "imageAlt": "Modern Cotton Pants",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "highlights": "Soft",
+    "details": "Rustic",
+    "colors": [],
+    "id": "2"
+  },
+  {
+    "createdAt": "2023-04-19T02:20:39.226Z",
+    "name": "Modern Rubber Chicken",
+    "price": "840.00",
+    "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-03.jpg",
+    "imageAlt": "Handcrafted Bronze Hat",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "highlights": "Cotton",
+    "details": "Awesome",
+    "colors": [],
+    "id": "3"
+  },
+  {
+    "createdAt": "2023-04-19T12:40:26.212Z",
+    "name": "Licensed Granite Ball",
+    "price": "234.00",
+    "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+    "imageAlt": "Sleek Bronze Pants",
+    "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+    "highlights": "Metal",
+    "details": "Handcrafted",
+    "colors": [],
+    "id": "4"
+  }
+]
