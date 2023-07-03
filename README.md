@@ -9,7 +9,7 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 ## Live Demo
 
-Check the live demo here 👉️ [https://rendering-test-next.vercel.app/](https://rendering-test-next.vercel.app/)
+Check the live demo here 👉️ [https://rendering-test-nextjs.vercel.app/](https://rendering-test-nextjs.vercel.app/)
 
 ## Learn More
 
